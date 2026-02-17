@@ -1,0 +1,5 @@
+# All the packages we need for project
+numpy
+ipykernel
+pillow >= 2.8
+numba == 0.63.1
